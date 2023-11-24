@@ -1,0 +1,1 @@
+bethrand bit manipulation assignment
